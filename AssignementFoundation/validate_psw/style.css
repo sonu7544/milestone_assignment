@@ -1,0 +1,51 @@
+body{
+    font-family: Arail, sans-serif;
+    text-align: center;
+}
+form{
+    margin-top: 200px;
+}
+
+#loginForm{
+    background-color: green;
+    margin-left: 550px;
+    margin-right: 550px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+}
+
+input,button{
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type ="text"], input[type="password"]{
+    width: 250px;
+}
+
+button{
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #0056b3;
+}
+
+p{
+    margin-top: 10px;
+}
+
+.error{
+    color: red;
+}
+
+.success{
+    color: black;
+}

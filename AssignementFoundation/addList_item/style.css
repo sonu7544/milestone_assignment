@@ -1,0 +1,14 @@
+.box{
+    background-color:  green;
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 550px;
+    margin-top: 70px;
+    border-radius: 8px;
+}
+button{
+    background-color: rgb(179, 216, 179);
+    margin-left: 40px;
+    border-radius: 5px;
+}
+
